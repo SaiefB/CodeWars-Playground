@@ -1,3 +1,9 @@
+/* function smash (words) {
+    for (let i = 0; i < words.length; i++) {
+        words[i]
+    }
+ }; */
 function smash (words) {
-    return ""
+    let result = words.join(" ");
+    return result;
  };
