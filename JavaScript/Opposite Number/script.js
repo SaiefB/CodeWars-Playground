@@ -9,7 +9,7 @@
     return result
   } */
 
-    function opposite(number) {
+/*     function opposite(number) {
         let result = 0
     
         if (number < 0) {
@@ -22,4 +22,8 @@
             console.log("removeMinus: " + number)
         }
         return result
-      }
+      } */
+
+        function opposite(number) {
+            return(-number);
+          }   
