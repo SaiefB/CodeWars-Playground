@@ -14,7 +14,5 @@ function squareDigits(num){
     console.log(joinedArr)
     return Number(joinedArr)
   }
-
-
-
+  
 squareDigits(9119)
