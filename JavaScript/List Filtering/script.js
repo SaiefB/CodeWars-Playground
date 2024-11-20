@@ -10,4 +10,4 @@ function filter_list(l) {
         return numberArray
   }
 
-filter_list([1,2,'a','b'])
+filter_list([1,2,'a','b']) 
