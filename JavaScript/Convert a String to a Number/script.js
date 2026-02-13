@@ -1,5 +1,5 @@
-const stringToNumber = function(str){
-    return Number(str)
-  }
+const stringToNumber = function (str) {
+  return Number(str);
+};
 
-  stringToNumber("1234")
+stringToNumber("1234");
