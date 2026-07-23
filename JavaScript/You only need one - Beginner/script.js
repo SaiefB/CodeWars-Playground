@@ -1,3 +1,9 @@
 function check(a, x) {
-  // your code here
+  for (i = 0; i < a.length; i++) {
+    if (a[i] === x) {
+      return true;
+    } else {
+      return false;
+    }
+  }
 }
