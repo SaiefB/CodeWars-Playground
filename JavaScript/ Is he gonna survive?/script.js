@@ -1,3 +1,8 @@
 function hero(bullets, dragons) {
-  //Get Coding!
+  let sum = bullets / dragons;
+  if (sum > 1) {
+    return true;
+  } else {
+    return false;
+  }
 }
