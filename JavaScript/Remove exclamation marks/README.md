@@ -1,0 +1,3 @@
+# Remove Exclamation Marks
+
+Write a function `RemoveExclamationMarks` which removes all exclamation marks from a given string.
